@@ -47,6 +47,9 @@ class Example extends Component {
 2) Add all you css to this class to apply your design in textbox.
 ```
 
+## Live in public NPM repository
+https://www.npmjs.com/package/reactjs-debounce
+
 ## License
 
 MIT © [ketanbodarya](https://github.com/ketanbodarya) & [savaliyanidhi](https://github.com/savaliyanidhi) & [parth-gondaliya](https://github.com/parth-gondaliya)
